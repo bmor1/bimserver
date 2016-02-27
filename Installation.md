@@ -1,0 +1,1 @@
+Page has been moved to https://github.com/opensourceBIM/BIMserver/wiki/JAR-Starter

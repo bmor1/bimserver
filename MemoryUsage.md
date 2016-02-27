@@ -1,0 +1,1 @@
+This wiki page has moved to https://github.com/opensourceBIM/BIMserver/wiki/Memory-usage

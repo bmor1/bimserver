@@ -1,0 +1,1 @@
+Development of the open source BIMserver platform has been moved to the github page of the open source BIM collective: http://www.github.com/opensourcebim/
